@@ -1,0 +1,1 @@
+Here is content of both files: This is content in first.txt, this is updated content, again, This is content in second.txt
