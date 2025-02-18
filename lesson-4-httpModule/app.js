@@ -1,3 +1,5 @@
+// change the start script to match this filepath to run the shortcut run command
+
 const http = require('http')
 
 // set up out server first  

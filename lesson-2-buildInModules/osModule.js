@@ -2,6 +2,8 @@
 // built in path module provides many functions to help interact with files and file paths
 // built in fs module provides many functions to assist with reading/writing files
 
+// change the start script to match this filepath to run the shortcut run command
+
 const os = require('os')
 console.log(os.hostname())
 

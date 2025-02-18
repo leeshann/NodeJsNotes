@@ -1,3 +1,5 @@
+// change the start script to match this filepath to run the shortcut run command
+
 const shannon = "shannon"
 const bob = "bob"
 
